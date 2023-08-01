@@ -2,6 +2,9 @@
 ## GOAL
 To create a forecast model using R that accurately predicts sales and demand for Walmart, incorporating factors like economic conditions and the effects of promotional markdowns and holidays.
 
+## KPIs: 
+Weekly Sales, Fuel Price, Unemployment, Week number, Event(categorical), Month(categorical)
+
 ## SOLUTION
 1. We gathered data, performed data exploration, made different datasets with required columns, plotted graphs, removed outliers, correlation analysis, made training and test datasets.
 2. We planned on building 3 forecast models: Multilinear Regression model, Random Forest Model, and Convolutional Neural Network Model.
